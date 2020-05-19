@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Sounds/Pew.mp3</file>
+        <file>Sounds/Zombie_spawn.mp3</file>
+        <file>Sounds/Collect_Coin.mp3</file>
+        <file>Sounds/bgsound.mp3</file>
+    </qresource>
+</RCC>
